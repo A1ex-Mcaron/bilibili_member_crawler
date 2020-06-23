@@ -1,5 +1,5 @@
 # bilibili_member_crawler 
-B站用户信息爬虫 (求Star\(^o^)/~
+B站用户信息爬虫 基于@cwjokaka的爬虫改造而成
 仅供娱乐学习使用
 
 ### 环境
